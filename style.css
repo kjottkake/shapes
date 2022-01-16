@@ -1,0 +1,39 @@
+.square {
+    border-radius: 30px;
+    background-color: #00d8d6;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 15px;
+  }
+  
+  .square2{
+    border-radius: 50%;
+    background-color: #00d8d6;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 15px;
+  }
+  
+  .square3{
+    border-radius: 50% / 10%;
+    background-color: #00d8d6;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 15px;
+  }
+  
+  .square4{
+    border-radius: 50% / 40%;
+    background-color: #00d8d6;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 15px;
+  }
+  
+  .square5{
+    border-radius: 50% 0 0 0 ;
+    background-color: #00d8d6;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 15px;
+  }
